@@ -1,5 +1,5 @@
 # Hi, I'm Kent! 👋
-Most of my repos are private or on the MIT enterprise environment, but feel free to look around! 
+Most of my repos are private or on the MIT Enterprise instance, but feel free to look around! 
 
 https://github.mit.edu/kbrought
 
