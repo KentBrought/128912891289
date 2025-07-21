@@ -48,7 +48,7 @@ Currently putting most of my energy into:
 
 
 ### 👨‍💻 Most Used Languages
-<img alt="Kent's GitHub Stats" src="https://github-readme-stats-eta-gold.vercel.app/api/top-langs/?username=128912891289&layout=donut&langs_count=20&count_private=true&hide_border=true&show_icons=true&hide_title=true"/>
+<img alt="Kent's GitHub Stats" src="https://github-readme-stats-eta-gold.vercel.app/api/top-langs/?username=KentBrought&layout=donut&langs_count=20&count_private=true&hide_border=true&show_icons=true&hide_title=true"/>
 
 ---
 *Always building something new* 🔥
