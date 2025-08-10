@@ -12,10 +12,14 @@ https://github.mit.edu/kbrought
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/128912891289/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KentBrought)
 
+---
+
 ### 🚀 Current Focus
 Currently putting most of my energy into:
 - **[KayBer.com](https://kayber.com)** 🎯
 - **[YapClap.com](https://yapclap.com)** 🎉
+
+---
   
 ### ⭐ My Favorites
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -26,6 +30,8 @@ Currently putting most of my energy into:
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ### 🛠️ Other Things I Code With
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,8 +53,11 @@ Currently putting most of my energy into:
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
+---
 
 ### 👨‍💻 Most Used Languages
+*This includes languages across all repositories (public and private).*
+
 <img alt="Kent's GitHub Stats" src="https://github-readme-stats-eta-gold.vercel.app/api/top-langs/?username=KentBrought&layout=donut&langs_count=20&count_private=true&hide_border=true&show_icons=true&hide_title=true"/>
 
 ---
